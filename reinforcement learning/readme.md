@@ -14,3 +14,6 @@ This directory contains the code associated with the Reinforcement Learning Work
     - N look ahead Buffer
     - Prioritized Experience Replay
 - Session 3
+	- Vanilla Policy Gradient
+	- Deep Deterministic Policy Gradients
+	- Build your own environment
