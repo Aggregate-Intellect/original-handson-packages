@@ -1,0 +1,8 @@
+nbdiff==1.0.3
+numpy==1.20.3
+pandas==1.1.0
+scikit-learn==0.24.2
+tensorflow==2.5.0
+aix360==0.2.1
+lime-stability==0.1.1
+lime==0.1.1.37
