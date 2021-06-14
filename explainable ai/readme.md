@@ -25,3 +25,8 @@ These notebooks are part of [Unit 2](https://ai.science/w/xai?breakdown-by-week-
 # SHAP Notebooks
 
 These notebooks are part of [Unit 3](https://ai.science/w/xai?breakdown-by-week-tab=xai-week3&tab=all-materials) of [the Explainable AI Course](https://ai.science/w/xai?breakdown-by-week-tab=overview&tab=all-materials).
+
+Warning: As of June 2021, the force plots on (Explain-Text-Classifier-SHAP.ipynb)[Explain-Text-Classifier-SHAP.ipynb] fail on JupyterLab. The error I get is: "Visualization omitted, Javascript library not loaded!
+Have you run `initjs()` in this notebook? If this notebook was from another user you must also trust this notebook (File -> Trust notebook). If you are viewing this notebook on github the Javascript has been stripped for security. If you are using JupyterLab this error is because a JupyterLab extension has not yet been written."
+
+According to the message, running it on a Jupter Notebook with a browser where it is "trusted" should succeed. 
