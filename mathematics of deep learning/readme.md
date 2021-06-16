@@ -1,4 +1,4 @@
-This directory contains the code associated with mathematics of Deep Learning Workshop. The material is focused on practicing the key concepts with Pytorch Framework. You'll find exercise notebooks, their respective solution and challenges, and a little quiz to help you to consolidate the topics seen on the workshop. The content in each Session are as follow:
+This directory contains the code associated with mathematics of Deep Learning Workshop. The material is focused on practicing the key Deep Learning concepts with Pytorch Framework. You'll find exercise notebooks, their respective solution and challenges, and a little quiz to help you to consolidate the topics seen on the workshop. The content in each Session are as follow:
 
 - Session 01
     - Pytorch Introduction
@@ -22,6 +22,9 @@ This directory contains the code associated with mathematics of Deep Learning Wo
     - Edge detection operators: Sobel & Scharr
     - ConvNets
     - DropOut
+
+
+- Session 03
     - Gradient Descent Algorithm
     - Derivatives, Chain Rule, Backpropagation
     - Autograd
