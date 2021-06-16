@@ -1,4 +1,4 @@
-## Anomaly and Novelty Detection ****
+## Anomaly and Novelty Detection 
 
 
 This directory contains notebooks explaining Anomaly Detection in form of exercises from different sessions. 
@@ -14,7 +14,7 @@ Each session is based as follows:
   - The activites of notebook on a high level are as follows:
     
     - Creation and visualising of Synthetic data
-    - Detecting anomaly using Gaussian model, Standard Deviation, histograms, KNN, Local Outlier Factor
+    - Detecting anomaly using **Gaussian model, Standard Deviation, histograms, KNN, Local Outlier Factor**
     - Detecting Anomalies using the Credit card Fraud and MNIST data
     - Dataset can be accessed from [here](https://drive.google.com/drive/folders/1qck0qOmLKD-DJotqL2ggwKcHZRnMToxD).
 
@@ -24,7 +24,7 @@ Each session is based as follows:
   - The activites of notebook on a high level are as follows:
     
     - Creation and visualising of Synthetic data
-    - Detecting anomaly using Isolation forest & One class SVM model
+    - Detecting anomaly using **Isolation forest & One class SVM model**
     - Exercise: Detecting Anomalies using the Credit card Fraud and MNIST data
     - Dataset can be accessed from [here](https://drive.google.com/drive/folders/1qck0qOmLKD-DJotqL2ggwKcHZRnMToxD).
 
@@ -34,7 +34,7 @@ Each session is based as follows:
   - The activites of notebook on a high level are as follows:
     
     - Creation and visualising of Synthetic data
-    - Detecting anomaly using Autoencoders, variational Autoencoders & GAN's
+    - Detecting anomaly using **Autoencoders, variational Autoencoders & GAN's**
     - Exercise: Detecting Anomalies using the Credit card Fraud and MNIST data
 
 ### **Resources**
