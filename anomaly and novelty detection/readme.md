@@ -18,6 +18,25 @@ Each session is based as follows:
     - Detecting Anomalies using the Credit card Fraud and MNIST data
     - Dataset can be accessed from [here](https://drive.google.com/drive/folders/1qck0qOmLKD-DJotqL2ggwKcHZRnMToxD).
 
+- ### **Session 2**
+  - This session explains various Machine learning techniques techniques to detect anomalies.
+  - The notebook explains how to visualize anomalies using synthetic, Credit Card Fraud and MNIST datasets.
+  - The activites of notebook on a high level are as follows:
+    
+    - Creation and visualising of Synthetic data
+    - Detecting anomaly using Isolation forest & One class SVM model
+    - Exercise: Detecting Anomalies using the Credit card Fraud and MNIST data
+    - Dataset can be accessed from [here](https://drive.google.com/drive/folders/1qck0qOmLKD-DJotqL2ggwKcHZRnMToxD).
+
+- ### **Session 3**
+  - This session explains various Neural netowrk techniques techniques to detect anomalies.
+  - The notebook explains how to visualize anomalies using synthetic, Credit Card Fraud and MNIST datasets.
+  - The activites of notebook on a high level are as follows:
+    
+    - Creation and visualising of Synthetic data
+    - Detecting anomaly using Autoencoders, variational Autoencoders & GAN's
+    - Exercise: Detecting Anomalies using the Credit card Fraud and MNIST data
+
 ### **Resources**
 
 - [Online Anomaly Detection Learning Resource](https://github.com/yzhao062/anomaly-detection-resources)
