@@ -1,6 +1,6 @@
 # Introduction
 This module contains notebooks and datasets for the popular **Recommenders - Reverse Engineering Users' Needs and Desires** course at [AISC](https://ai.science/). Original content is developed by these superstars:
-- Felipe Ferez, Sr. ML Research Scientist
+- Felipe Perez, Sr. ML Research Scientist
 - Ella Chen, Data Scientist
 - Serena McDonnell, Sr. Data Scientist
 - Werner Chao, Data Scientist
