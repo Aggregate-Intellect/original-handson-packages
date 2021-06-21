@@ -1,0 +1,14 @@
+
+To build the docker image
+---
+
+From inside of this directory
+
+Run:
+
+docker build -t iris_flask_cont .
+
+
+To run the container
+---
+docker run -it --name iris_flask_cont -p 5000:5000 --rm iris_flask_cont
