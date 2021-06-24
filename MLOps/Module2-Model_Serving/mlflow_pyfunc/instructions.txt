@@ -1,0 +1,22 @@
+To create the models required environment
+---
+
+From inside of this directory
+
+Run:
+
+conda env create --file iris_model_pyfunc/conda.yaml
+
+Run:
+
+conda activate mlflow-env-iris
+
+
+To run the file that pulls in our model
+---
+
+From inside of this directory
+
+Run:
+
+python app.py
