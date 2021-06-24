@@ -1,0 +1,15 @@
+awscli
+flask
+ipywidgets
+jupyter
+jupyterlab
+nltk
+numpy
+pandas
+pillow
+requests
+scikit-learn
+scipy
+statsmodels
+urllib3
+widgetsnbextension
