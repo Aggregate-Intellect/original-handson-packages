@@ -27,7 +27,7 @@ To successfully run all the notebooks, you need to have the following packages i
 - `Notebook_2_NLP_Fundamentals_&_Exercise.ipnyb` explores the fundamentals of NLP using nltk
 - `Notebook_3_Low_level_Text_Processing.ipynb` introduces low-level text processing using nltk
 - `Notebook_NLP_Transformer_Tutorial.ipynb` training a Transformer model to translate Portuguese into English
-- `Notebook_The_Annotated_Transformer.ipynb` introducing **Attention is All You Need ** paper
+- `Notebook_The_Annotated_Transformer.ipynb` introducing **Attention is All You Need** paper
 - `Statistical_NLP.ipynb` discussing statistical NLP models
 
 # Additional Reading Materials
