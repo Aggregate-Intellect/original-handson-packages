@@ -32,8 +32,8 @@ To successfully run all the notebooks, you need to have the following packages i
 
 # Additional Reading Materials
 - how backpropagation works
-	Academic version: http://neuralnetworksanddeeplearning.com/chap2.html
-	My personal favorite: https://youtu.be/Ilg3gGewQ5U
+	- Academic version: http://neuralnetworksanddeeplearning.com/chap2.html
+	- personal favorite (3Blue1Brown): https://youtu.be/Ilg3gGewQ5U
 - intro to Autoencoders
 	https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368
 - the illustrated Transformer
