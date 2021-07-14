@@ -1,7 +1,7 @@
 # Aggregate Intellect - Machine Learning Hands-on Packages
 
 ## What is this?
-This repository contains notebooks from our premium content packages (previously only available through paid susbcription) that is now open-sourced for all developers to enjoy. For more details about us and to see all our content visit [our website](https://ai.science)
+This repository contains notebooks from our premium content packages (previously only available through paid susbcription) that is now open-sourced for all developers to enjoy. For more details about us and to see all our free content visit [our website](https://ai.science)
 
 ## What can I contribute?
 You can contribute by:
@@ -13,8 +13,8 @@ The majority of the notebooks run PyTorch, but there is also content in good old
 
 We will add more details and resources over time to help you contribute more effectively. 
 
-## How can i contribute?
-- Either create a new issues for a problem you found, or find an existing one that you are interested in addressing.
+## How can I contribute?
+- Either create a new issue for a problem you found, or find an existing one that you are interested in addressing.
 - Fork this repository to your local GitHub machine. This means that you will have a copy of the repository under your-GitHub-username/repository-name.
 - Clone the repository to your local machine using git clone https://github.com/github-username/repository-name.git.
 - Create a new branch for your fix using git checkout -b branch-name-here.
@@ -27,7 +27,7 @@ We will add more details and resources over time to help you contribute more eff
 - In the description of the pull request, explain the changes that you made, any issues you think exist with the pull request you made, and any questions you have for the maintainer. It's OK if your pull request is not perfect (no pull request is), the reviewer will be able to help you fix any problems and improve it!
 - Wait for the pull request to be reviewed by a maintainer.
 - Make changes to the pull request if the reviewing maintainer recommends them.
-- Celebrate your success after your pull request is merged!
+- Celebrate your success after your pull request is merged! WAHOO!
 
 ## Where can I go for help?
 If you need help, you can ask questions email us at github@ai.science or [join our slack channel](https://join.slack.com/t/aisc-to/shared_invite/zt-f5zq5l35-PSIJTFk4v60FML177PgsPg).
