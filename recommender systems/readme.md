@@ -26,7 +26,7 @@ To successfully run all the notebooks, you need to have the following packages i
 - `1.3-trivago-ranking-in-recsys` illustrates how to approach item ranking in recommender systems
 - `2.0-trivago-node2vec` explores graphs for recommender systems and introduction to node2vec
 - `2.1-pagerank-dampening` inspects the dampening effect of Google's PageRank algorithm
-- `3.0-trivago-vae-for-cf` a PyTorch-adaptive implementation of the Variational Autoencoder for Collaborative Filtering using the Movie Lens dataset
+- `3.0-movielens-vae-for-cf` a PyTorch-adaptive implementation of the Variational Autoencoder for Collaborative Filtering using the Movie Lens dataset
 
 ## Data
 
