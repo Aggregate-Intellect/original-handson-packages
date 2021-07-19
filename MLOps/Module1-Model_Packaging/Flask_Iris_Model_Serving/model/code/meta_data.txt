@@ -1,5 +1,0 @@
-{
-  "version": "1.0",
-  "description": "This is a simple iris classifier",
-  "input": "The expected input to the prediction function is a pandas DataFrame"
-}
