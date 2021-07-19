@@ -1,0 +1,11 @@
+channels:
+- defaults
+- pytorch
+dependencies:
+- python=3.6.9
+- pytorch=1.4.0
+- pip:
+  - mlflow
+  - transformers==2.5.1
+  - cloudpickle==1.2.2
+name: mlflow-env
