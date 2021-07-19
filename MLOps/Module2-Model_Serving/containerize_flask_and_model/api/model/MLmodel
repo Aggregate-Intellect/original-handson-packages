@@ -1,0 +1,16 @@
+flavors:
+  python_function:
+    artifacts:
+      label_encoder:
+        path: artifacts/label_encoder.pkl
+        uri: /content/label_encoder.pkl
+      state_dict:
+        path: artifacts/state_dict.pt
+        uri: /content/state_dict.pt
+    cloudpickle_version: 1.2.2
+    code: code
+    env: conda.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.6.9
+utc_time_created: '2020-03-08 02:16:30.812845'
