@@ -23,10 +23,10 @@ To successfully run all the notebooks, you need to have the following packages i
 - `1.0-movielens-eda` explores the Movie Lens dataset
 - `1.1-movielens-memory-based-recsys` demonstrates some examples of memory-based recommender systems using the Movie Lens dataset
 - `1.2-movielens-model-based-recsys` shows two model-based recommender system approaches: Matrix Factorization and a back propagation approach
-- `2.0-trivago-ranking-in-recsys` illustrates how to approach item ranking in recommender systems
+- `1.3-trivago-ranking-in-recsys` illustrates how to approach item ranking in recommender systems
+- `2.0-trivago-node2vec` explores graphs for recommender systems and introduction to node2vec
 - `2.1-pagerank-dampening` inspects the dampening effect of Google's PageRank algorithm
-- `3.0-trivago-node2vec` explores graphs for recommender systems and introduction to node2vec
-- `3.1-trivago-vae-for-cf` a PyTorch-adaptive implementation of the Variational Autoencoder for Collaborative Filtering using the Movie Lens dataset
+- `3.0-trivago-vae-for-cf` a PyTorch-adaptive implementation of the Variational Autoencoder for Collaborative Filtering using the Movie Lens dataset
 
 ## Data
 
