@@ -18,6 +18,10 @@ To successfully run all the notebooks, you need to have the following packages i
 
 # Content
 
+## Data
+
+Download the datasets used in these notebooks [here](https://drive.google.com/drive/folders/10OGTBbEVyX3YjFPX_kOjWF8FpwqvARr5?usp=sharing).
+
 ## Notebooks
 
 - `1.0-movielens-eda` explores the Movie Lens dataset
@@ -27,10 +31,6 @@ To successfully run all the notebooks, you need to have the following packages i
 - `2.0-trivago-node2vec` explores graphs for recommender systems and introduction to node2vec
 - `2.1-pagerank-dampening` inspects the dampening effect of Google's PageRank algorithm
 - `3.0-movielens-vae-for-cf` a PyTorch-adaptive implementation of the Variational Autoencoder for Collaborative Filtering using the Movie Lens dataset
-
-## Data
-
-The data folder stores the two datasets used in the notebooks: Movie Lens (ml-20m) and Trivago.
 
 # Additional Reading Materials
 - Weighted matrix factorization names  
