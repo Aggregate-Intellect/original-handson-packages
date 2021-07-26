@@ -24,13 +24,13 @@ Download the datasets used in these notebooks [here](https://drive.google.com/dr
 
 ## Notebooks
 
-- `1.0-movielens-eda` explores the Movie Lens dataset
+- `1.0-movielens-eda` gives a quick introduction to recommender system and explores the Movie Lens dataset to prep for the rest of the notebooks
 - `1.1-movielens-memory-based-recsys` demonstrates some examples of memory-based recommender systems using the Movie Lens dataset
 - `1.2-movielens-model-based-recsys` shows two model-based recommender system approaches: Matrix Factorization and a back propagation approach
-- `1.3-trivago-ranking-in-recsys` illustrates how to approach item ranking in recommender systems
-- `2.0-trivago-node2vec` explores graphs for recommender systems and introduction to node2vec
+- `1.3-trivago-ranking-in-recsys` illustrates how to approach item ranking and evaluate results in recommender systems
+- `2.0-node2vec` explores graph representation for recommender systems by introducing node2vec
 - `2.1-pagerank-dampening` inspects the dampening effect of Google's PageRank algorithm
-- `3.0-movielens-vae-for-cf` a PyTorch-adaptive implementation of the Variational Autoencoder for Collaborative Filtering using the Movie Lens dataset
+- `3.0-movielens-vae-for-cf` is a PyTorch-adaptive implementation of the Variational Autoencoder for Collaborative Filtering using the Movie Lens dataset
 
 # Additional Reading Materials
 - Weighted matrix factorization names  
