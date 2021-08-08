@@ -2,25 +2,25 @@
 
 
 
-This repo contains all materials of the package "Unsupervised Learning" offered by Dr. Shazia Akbar at Aggregate Intellect in 2019. 
+This repo contains all materials of the package "Unsupervised Learning" offered by **Dr. Shazia Akbar** at [Aggregate Intellect](https://ai.science/) in 2019. 
 
 
 
 #### Session 01
 
-* Review deep learning
+* Review of deep learning
   - Challenges with labelled data
   - Types of learning
     - Weakly supervised
     - Using unlabelled data
-* Unsupervised learning - data compression
+* Unsupervised learning - Data Compression
   - Data embedding
   - PCA
 * Autoencoders
   - Basic, deep, convolutional, sparse
   - Applications
   - Problems
-* Variational autoencoders VAE
+* Variational autoencoders - VAE
   - VAE loss
 * Unsupervised learning - generative models 
   - Disentanglement & betaVAE
@@ -38,7 +38,7 @@ This repo contains all materials of the package "Unsupervised Learning" offered 
 - Deep clustering
 - Performance metrics
 - Deep clustering algorithms - VaDE
-  - GMM (gaussian mixture models)
+  - GMM (Gaussian Mixture Models)
   - VaDE loss function
 - Other clustering techniques
   - DAC
@@ -46,7 +46,8 @@ This repo contains all materials of the package "Unsupervised Learning" offered 
   - CatGAN
   - InfoGAN
   - Non-parametric clustering: deep belief network
-- Predictive modelling: PredNet
+- Predictive modelling
+  - PredNet
 
 
 
